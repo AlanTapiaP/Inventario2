@@ -1,9 +1,4 @@
-#Proyecto Integrador
-#Programa de la tienda
-#Equipo:
-#Francisco Javier Olea Gándara-A00227807
-#Jesús Ramón Zazueta Ubiarco-A00227809
-#Alán Tapia Parada-A000227840
+
 print("¡Bienvenido a la tienda RAF!")
 while True:
     myfile=open("Inventario.txt","r")
